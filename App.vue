@@ -1,0 +1,66 @@
+<script>
+	export default {
+		onLaunch: function() {
+
+		},
+		onShow: function() {
+
+		},
+		onHide: function() {
+
+		},
+
+	}
+</script>
+
+<style>
+	@import url('@/iconfont/iconfont.css');
+
+	/*每个页面公共css */
+	.container {
+		width: 100%;
+		height: calc(100vh - 70px);
+		overflow: hidden;
+	}
+
+	.container scroll-view {
+		height: 100%;
+	}
+
+	.fixbg {
+		width: 100%;
+		height: 100vh;
+		position: fixed;
+		left: 0;
+		top: 0;
+		background-image: url("https://p0.meituan.net/dpplatform/63bf2a6a39f30dfe619b3fa80124892f461165.jpg");
+		background-position: center 0;
+		background-size: cover;
+		transform: scale(1.0);
+		filter: blur(20rpx);
+	}
+
+	.music-head {
+		width: 100%;
+		height: 75px;
+		font-size: 16px;
+		line-height: 80px;
+		color: black;
+		text-align: center;
+		position: relative;
+	}
+
+	.music-head-icon {
+		position: absolute;
+		left: 8px;
+		top: 26px;
+		width: 90px;
+		height: 30px;
+		background: rgba(0, 0, 0, 0.4);
+		color: white;
+		line-height: 30px;
+		border-radius: 15px;
+		display: flex;
+		justify-content: space-evenly;
+	}
+</style>

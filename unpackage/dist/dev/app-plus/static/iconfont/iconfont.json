@@ -1,0 +1,86 @@
+{
+  "id": "3766413",
+  "name": "neteaseMusic",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "uniapp仿网易云",
+  "glyphs": [
+    {
+      "icon_id": "629343",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "755541",
+      "name": "放大镜",
+      "font_class": "search",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "1660744",
+      "name": "右三角",
+      "font_class": "yousanjiao",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "2076319",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e8a3",
+      "unicode_decimal": 59555
+    },
+    {
+      "icon_id": "5387456",
+      "name": "播放",
+      "font_class": "bofang1",
+      "unicode": "ead8",
+      "unicode_decimal": 60120
+    },
+    {
+      "icon_id": "6331958",
+      "name": "垃圾桶",
+      "font_class": "lajitong",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "7594046",
+      "name": "24gl-pauseCircle",
+      "font_class": "24gl-pauseCircle",
+      "unicode": "ea6d",
+      "unicode_decimal": 60013
+    },
+    {
+      "icon_id": "7677928",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "10937697",
+      "name": "赞",
+      "font_class": "good",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "11372666",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e8b0",
+      "unicode_decimal": 59568
+    },
+    {
+      "icon_id": "17816863",
+      "name": "左箭头",
+      "font_class": "zuojiantou",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
